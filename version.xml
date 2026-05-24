@@ -1,5 +1,5 @@
 <dict>
-    <key>version</key><integer>4</integer>
+    <key>version</key><integer>5</integer>
     <key>zip</key><string>https://amrom.github.io/Chat/kiosk.zip</string>
     <key>clear-previous-content</key><false/>
 </dict>
